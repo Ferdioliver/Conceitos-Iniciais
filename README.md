@@ -2,4 +2,4 @@
  Curso em vídeo_1 git e github
  Aprendendo a como realizar operações no Github
 
-Adicionei mais uma linha teste.
+Adicionei mais uma linha teste diretamento do github.
